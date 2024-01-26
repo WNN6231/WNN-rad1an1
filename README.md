@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WNN-rad1an1
+- 👋 Hi, I’m @WNN_M1LK
 - 👀 I’m interested in palying table tennis and badminten. 
 - 🌱 I’m currently learning how to use github better.
 - 💞️ I’m looking to collaborate on ...
